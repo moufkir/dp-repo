@@ -1,0 +1,12 @@
+name: DeApp
+title: DeApp
+username:
+account: moufkir
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 445206
+bundleId: 1585693
+url: https://moufkir.shinyapps.io/DeApp/
+when: 1536934255.38342
+asMultiple: FALSE
+asStatic: FALSE
