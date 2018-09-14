@@ -7,7 +7,7 @@ autosize: true
 Data Explorer Pitch
 ========================================================
 
-To access the application please visit <https://support.rstudio.com/hc/en-us/articles/200486468>.
+To access the application please visit <https://moufkir.shinyapps.io/DeApp/>.
 
 `Data Set Explorer Tool` Is a simple tool that allows users to explore relationship between features of a dataset.
 
